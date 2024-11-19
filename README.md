@@ -1,2 +1,2 @@
-# 5__ESP32-basics__WiFi
+# WiFi. 
 Simple code for WiFi setup on ESP32. 
